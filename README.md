@@ -1,5 +1,5 @@
 # Setup self managed Kubernetes cluster on AWS cloud
-
+## firewall allowed of master node
 #### Description:
 
 - Launch 3 EC2 servers
